@@ -1,0 +1,24 @@
+body { background-color: gray}
+#khung1 {
+    height: 50px;
+    background-color: coral;
+    margin: 10px;
+    text-align: center;
+}
+#khung2 {
+    height: 40px;
+    background-color: coral;
+    text-align: center;}
+#khung3 {
+    height: auto;
+    background-color:rosybrown;
+    }
+#chu-mau-do {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+
+}
+.in-dam { 
+    font-weight: bold;
+}
+.can-giua {display: block; margin-left: auto; margin-right: auto;}

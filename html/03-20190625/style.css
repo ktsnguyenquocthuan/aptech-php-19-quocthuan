@@ -1,0 +1,28 @@
+div {height: 100px;
+    margin: 0px;}
+#mot {
+    display: flex;
+    margin: 10px;
+    background-color: lightblue;
+}
+#hai {
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    background-color: blue;
+}
+#ba {
+    display: flex; height: 300px;
+    margin: 10px;
+    background-color: brown;
+}
+#bon {
+    display: flex;
+    margin: 10px;
+    background-color: chartreuse;
+}
+#nam {
+    display: flex;
+    margin: 10px;
+    background-color: coral;
+}
